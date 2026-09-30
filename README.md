@@ -352,6 +352,6 @@ Contributions, suggestions, and improvements are welcome.
 
 ## 📄 License
 
-This project is released under the **MIT License**.
-See [MIT License](LICENSE) for details..
+This project is released under the **MIT License**.<br>
+See [License](LICENSE) for details..
 
