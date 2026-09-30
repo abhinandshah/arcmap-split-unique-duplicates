@@ -335,5 +335,5 @@ Contributions, suggestions, and improvements are welcome.
 ## 📄 License
 
 
-[MIT Licence](LICENSE)
+[MIT License](LICENSE)
 
