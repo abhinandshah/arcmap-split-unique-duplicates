@@ -334,5 +334,7 @@ Contributions, suggestions, and improvements are welcome.
 
 ## 📄 License
 
+
+[MIT Licence](LICENCE)
 Add your preferred open-source license here, such as **MIT License**, if you want others to freely use and modify the tool.
 
