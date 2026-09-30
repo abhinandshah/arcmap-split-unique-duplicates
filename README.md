@@ -326,6 +326,27 @@ GIS Analyst • GIS & Remote Sensing • WebGIS
 
 ---
 
+
+
+## 📸 Tool Preview
+
+<div align="center">
+
+<!-- Replace this image with your actual ArcMap toolbox screenshot -->
+
+![Tool Preview](screenshots/tool-preview.png)
+
+*ArcMap Script Tool — Split Unique & Duplicates*
+
+</div>
+
+> **Screenshot placeholder:**
+> Add your ArcMap tool dialog screenshot as:
+>
+> `screenshots/tool-preview.png`
+
+---
+
 ## ⭐ Support
 
 If this tool is useful for your GIS workflow, consider giving the repository a ⭐ on GitHub.
