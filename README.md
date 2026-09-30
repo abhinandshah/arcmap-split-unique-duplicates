@@ -340,11 +340,6 @@ GIS Analyst • GIS & Remote Sensing • WebGIS
 
 </div>
 
-> **Screenshot placeholder:**
-> Add your ArcMap tool dialog screenshot as:
->
-> `screenshots/tool-preview.png`
-
 ---
 
 ## ⭐ Support
