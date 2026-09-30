@@ -334,7 +334,7 @@ GIS Analyst • GIS & Remote Sensing • WebGIS
 
 <!-- Replace this image with your actual ArcMap toolbox screenshot -->
 
-![Tool Preview](screenshots)
+![Tool Preview](screenshots/tool-interface.png)
 
 *ArcMap Script Tool — Split Unique & Duplicates*
 
