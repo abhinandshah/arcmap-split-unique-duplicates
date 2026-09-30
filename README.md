@@ -336,5 +336,4 @@ Contributions, suggestions, and improvements are welcome.
 
 
 [MIT Licence](LICENCE)
-Add your preferred open-source license here, such as **MIT License**, if you want others to freely use and modify the tool.
 
