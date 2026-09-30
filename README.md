@@ -187,6 +187,8 @@ unique_UID.shp
 
 ```text
 H002
+H002
+H003
 H003
 ```
 
@@ -311,7 +313,7 @@ arcmap-split-unique-duplicates/
 
 **Abhinand Shah**
 
-GIS & Remote Sensing | WebGIS | Spatial Analysis
+GIS Analyst • GIS & Remote Sensing • WebGIS
 
 ### Areas of Interest
 
