@@ -63,3 +63,5 @@ def main():
 # ArcMap requires this for script tools
 if __name__ == '__main__':
     main()
+#https://github.com/abhinandshah
+#https://github.com/abhinandshah/arcmap-split-unique-duplicates
